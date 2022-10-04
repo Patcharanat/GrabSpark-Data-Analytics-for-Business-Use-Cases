@@ -34,5 +34,5 @@ Grab, one of the biggest company in food delivery industry, created an business 
 * KPIs
 * Epilogue
 ---
--- See the data analysis details in python notebook; "Grab_case_notebook.ipynb"<br>
-*Not just coding but fully explained processes of thought.*
+-- See the data analysis details in python notebook; ["Grab_case_notebook.ipynb"](https://github.com/Patcharanat/GrabSpark-Data-Analytics-for-Business-Use-Cases/blob/master/Grab_case_notebook.ipynb)<br>
+*Not just coding but fully explained the idea.*
